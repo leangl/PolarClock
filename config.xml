@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://tattu.mobi/PolarClock" version="1.0.0" height="480" width="360" viewmodes="fullscreen">
+    <tizen:application id="X2NvWmzh8m.PolarClock" package="X2NvWmzh8m" required_version="2.2"/>
+    <author href="http://tattu.mobi">Tattu Mobile</author>
+    <tizen:category name="com.samsung.wmanager.WATCH_CLOCK"/>
+    <content src="index.html"/>
+    <feature name="http://tizen.org/feature/screen.size.normal.360.480"/>
+    <icon src="icon.png"/>
+    <name>PolarClock</name>
+    <tizen:setting background-support="enable" encryption="disable" hwkey-event="enable"/>
+</widget>
